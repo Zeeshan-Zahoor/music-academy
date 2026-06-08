@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Master piano basics and play your favorite songs with ease.",
+      "price": 129.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Drumming",
+      "slug": "advanced-drumming",
+      "description": "Take your drumming skills to the next level with advanced techniques.",
+      "price": 149.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Violin Essentials",
+      "slug": "violin-essentials",
+      "description": "Build a strong foundation in violin performance and music theory.",
+      "price": 119.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Music Production Masterclass",
+      "slug": "music-production-masterclass",
+      "description": "Learn professional music production using modern DAWs and tools.",
+      "price": 199.99,
+      "instructor": "Chris Wilson",
+      "isFeatured": true,
+      "image": "/courses/production.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Bass Guitar Groove",
+      "slug": "bass-guitar-groove",
+      "description": "Develop rhythm and groove with bass guitar training.",
+      "price": 89.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": false,
+      "image": "/courses/bass.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Singing & Vocal Training",
+      "slug": "singing-vocal-training",
+      "description": "Improve your vocal range, pitch, and confidence in singing.",
+      "price": 109.99,
+      "instructor": "Anna Taylor",
+      "isFeatured": true,
+      "image": "/courses/vocals.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Basics",
+      "slug": "electronic-music-basics",
+      "description": "Create electronic tracks and understand synths and beats.",
+      "price": 139.99,
+      "instructor": "David Brown",
+      "isFeatured": false,
+      "image": "/courses/electronic.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Ukulele Starter Pack",
+      "slug": "ukulele-starter-pack",
+      "description": "A fun and simple introduction to playing the ukulele.",
+      "price": 59.99,
+      "instructor": "Olivia Green",
+      "isFeatured": false,
+      "image": "/courses/ukulele.jpg"
+    },
+    {
+      "id": 10,
+      "title": "DJ Mixing Essentials",
+      "slug": "dj-mixing-essentials",
+      "description": "Learn beatmatching, transitions, and live DJ performance skills.",
+      "price": 159.99,
+      "instructor": "Kevin White",
+      "isFeatured": true,
+      "image": "/courses/dj.jpg"
+    }
+  ]
+}
